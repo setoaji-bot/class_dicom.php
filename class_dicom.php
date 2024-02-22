@@ -1,4 +1,5 @@
 <?PHP
+
 /*
 Dean Vaughan 2013 <dean@deanvaughan.org>
 http://www.deanvaughan.org/projects/class_dicom_php/
